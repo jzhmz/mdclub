@@ -1,0 +1,15 @@
+{
+    "name": "cy",
+    "description": "",
+    "keywords": [
+        ""
+    ],
+    "website": "https://github.com/jzhmz/mdclub",
+    "repository": "https://github.com/jzhmz/mdclub",
+    "stack": "container",
+    "addons": [
+        {
+          "plan": "heroku-postgresql:hobby-dev"
+        }
+    ]
+}
